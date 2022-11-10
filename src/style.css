@@ -1,0 +1,20 @@
+ nav ul li{
+  margin-right:20px  ;
+    display: inline; 
+    text-align: center;
+    
+ }
+
+
+header{
+ 
+    background-color:brown;
+    padding: 20px;
+    
+}
+
+
+nav ul li a{
+    color: white; 
+    text-align: center;
+}
