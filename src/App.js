@@ -24,7 +24,9 @@ const initialState = 0;
             {/*use the dispatch function to manipulate the state*/}
             <button onClick={() => dispatch('decrement')}> - </button>
             <button onClick={() => dispatch('increment')}> + </button>
+            <P>dsvuhijnfdijijijijijiidjnhhcbuhcxbvsbbhevbvfr9</P>
         </>
+       
         ); 
     }
 
